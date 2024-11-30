@@ -13,16 +13,17 @@
 <img src="./assets/borderseparator.gif"/>
 <img src="./assets/animated-flame-01.gif" width="20px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="20px" align="right"/>
-<h2 align="center"> <strong> Self-taught and passionate about coding!</strong> </h2><img src="./assets/borderseparator.gif"/><br>
+<h2 align="center"> <strong> Applied Mathematics and Computer Science</strong> </h2><img src="./assets/borderseparator.gif"/><br>
 
 <div align="left">
 <li>👨‍💻 I'm Ved Shah (shahved25)👋, an avid full-stack programmer and a student at the Downingtown STEM Academy. 💻 <br><br></li>
 
-<li>🌳 I’m currently learning Matlab, Arduino, Illustrator, and React! <br><br></li>
+<li>☕ Career Interests: Solve complex problems with computational modeling! <br><br></li>
+
+<li>🌳 I’m currently learning Matlab, Arduino, Illustrator, and React. <br><br></li>
 
 <li>🐾 I’m looking to network and grow my skillset! <br><br></li>
 
-<li>☕ Interests: Applied Mathematics and Computer Science<br><br></li>
 </div>
 
 <!--<img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" />-->
@@ -31,7 +32,7 @@
 <img src="./assets/animated-flame-01.gif" width="20px" align="right"/>
 <h2 align="center"> <strong> ⚙️ Technologies and Skills </strong></h2><img src="./assets/borderseparator.gif"/><br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,py,flask,java,cpp,matlab,html,css,js,bootstrap,anaconda,latex,nodejs,vite,postman,sklearn,selenium,cs,unity,mysql,sqlite,swift,qt,processing,md,threejs,stackoverflow,atom,vscode,visualstudio,idea,replit,firebase,vercel,figma,heroku,arduino&perline=16" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,py,flask,java,matlab,html,css,js,anaconda,nodejs,postman,sklearn,selenium,cs,unity,mysql,sqlite,swift,threejs,stackoverflow,vscode,visualstudio,replit,firebase,vercel,figma,heroku,arduino,opencv,figma&perline=16" alt="skills logos" /> <br>
     <h3> <strong> Actively Learning </strong></h3>
     <img src="https://skillicons.dev/icons?i=docker,ros,c,linux,debian,opencv,r,ruby,bash,autocad,aws,pytorch,sass,tailwind,julia,django&perline=16" alt="skills actively learning logos"> <br> 
     <h3> <strong> Planning to Learn </strong></h3>
