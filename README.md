@@ -32,7 +32,6 @@
 <img src="./assets/animated-flame-01.gif" width="20px" align="right"/>
 <h2 align="center"> <strong> ⚙️ Technologies and Skills </strong></h2><img src="./assets/borderseparator.gif"/><br>
 <div align="center">
-  <h3> <strong> Proficient </strong></h3>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,py,flask,java,matlab,html,css,js,anaconda,nodejs,postman,sklearn,selenium,cs,unity,mysql,sqlite,swift,threejs,stackoverflow,vscode,visualstudio,replit,firebase,figma,arduino,opencv,figma,airtable,zapier&perline=16" alt="skills logos" /> <br>
   <h3> <strong> Actively Learning </strong></h3>
   <img src="https://skillicons.dev/icons?i=docker,ros,c,linux,debian,opencv,r,ruby,bash,autocad,aws,pytorch,sass,tailwind,julia,django&perline=16" alt="skills actively learning logos"> <br> 
@@ -43,15 +42,4 @@
 <img src="./assets/borderseparator.gif"/>
 <img src="./assets/animated-flame-01.gif" width="20px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="20px" align="right"/>
-
-<h2 align="center"> <strong>🏆 My Github Stats </strong></h2><img src="./assets/borderseparator.gif"/><br>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahved25&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <h2></h2>
-  <img src="https://streak-stats.demolab.com?user=shahved25&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shahved25&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahved25&theme=radical&langs_count=10&card_width=540&layout=compact" width="80%" alt="Most used languages">
-</div>
-
-![Saptak625's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saptak625&custom_title=Saptak625's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
-
 <img src="./assets/animated-wave.svg" />
