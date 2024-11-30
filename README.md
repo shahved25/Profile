@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Saptak.+Welcome+to+my+Profile!" align="middle" alt="Ved Shah! Welcome to my Profile! animated typed out" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Ved+Shah+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Ved Shah! Welcome to my Profile! animated typed out" width="100%"/>
 <img src="./assets/borderseparator.gif" width="100%"/>
 
 <p align="center"> 
@@ -16,7 +16,7 @@
 <h2 align="center"> <strong> Self-taught and passionate about coding!</strong> </h2><img src="./assets/borderseparator.gif"/><br>
 
 <div align="left">
-<li>👨‍💻 I'm Saptak Das (Saptak625)👋, an avid full-stack programmer and a first-year Aerospace Engineering major at Georgia Tech, who loves to automate everything. 💻 <br><br></li>
+<li>👨‍💻 I'm Ved Shah (shahved25)👋, an avid full-stack programmer and a first-year Aerospace Engineering major at Georgia Tech, who loves to automate everything. 💻 <br><br></li>
 
 <li>🌳 I’m currently learning Matlab, Arduino, SolidWorks, and Stan! <br><br></li>
 
