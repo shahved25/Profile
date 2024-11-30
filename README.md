@@ -3,7 +3,7 @@
 
 <p align="center"> 
   <b>Profile Views</b><br>
-  <img src="https://profile-counter.glitch.me/Saptak625/count.svg" />
+  <img src="https://profile-counter.glitch.me/shahved25/count.svg" />
 </p>
 
 <img src="./assets/pixel-night-banner.gif"/> 
@@ -32,11 +32,12 @@
 <img src="./assets/animated-flame-01.gif" width="20px" align="right"/>
 <h2 align="center"> <strong> ⚙️ Technologies and Skills </strong></h2><img src="./assets/borderseparator.gif"/><br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,py,flask,java,matlab,html,css,js,anaconda,nodejs,postman,sklearn,selenium,cs,unity,mysql,sqlite,swift,threejs,stackoverflow,vscode,visualstudio,replit,firebase,vercel,figma,heroku,arduino,opencv,figma&perline=16" alt="skills logos" /> <br>
-    <h3> <strong> Actively Learning </strong></h3>
-    <img src="https://skillicons.dev/icons?i=docker,ros,c,linux,debian,opencv,r,ruby,bash,autocad,aws,pytorch,sass,tailwind,julia,django&perline=16" alt="skills actively learning logos"> <br> 
-    <h3> <strong> Planning to Learn </strong></h3>
-    <img src="https://skillicons.dev/icons?i=cmake,rust,haskell,tensorflow,svelte,react,jquery,angular,wasm,webpack,nextjs,mongodb,raspberrypi,perl,gcp,kotlin,maven,netlify,astro&perline=16" alt="skills planning to learn logos">
+  <h3> <strong> Proficient </strong></h3>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,py,flask,java,matlab,html,css,js,anaconda,nodejs,postman,sklearn,selenium,cs,unity,mysql,sqlite,swift,threejs,stackoverflow,vscode,visualstudio,replit,firebase,figma,arduino,opencv,figma,airtable,zapier&perline=16" alt="skills logos" /> <br>
+  <h3> <strong> Actively Learning </strong></h3>
+  <img src="https://skillicons.dev/icons?i=docker,ros,c,linux,debian,opencv,r,ruby,bash,autocad,aws,pytorch,sass,tailwind,julia,django&perline=16" alt="skills actively learning logos"> <br> 
+  <h3> <strong> Planning to Learn </strong></h3>
+  <img src="https://skillicons.dev/icons?i=cmake,rust,haskell,tensorflow,svelte,react,jquery,angular,wasm,webpack,nextjs,mongodb,raspberrypi,perl,gcp,kotlin,maven,netlify,astro&perline=16" alt="skills planning to learn logos">
 </div></br>
 
 <img src="./assets/borderseparator.gif"/>
@@ -45,10 +46,10 @@
 
 <h2 align="center"> <strong>🏆 My Github Stats </strong></h2><img src="./assets/borderseparator.gif"/><br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saptak625&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <h2></h2>
-  <img src="https://streak-stats.demolab.com?user=Saptak625&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Saptak625&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak625&theme=radical&langs_count=10&card_width=540&layout=compact" width="80%" alt="Most used languages">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahved25&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <h2></h2>
+  <img src="https://streak-stats.demolab.com?user=shahved25&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahved25&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahved25&theme=radical&langs_count=10&card_width=540&layout=compact" width="80%" alt="Most used languages">
 </div>
 
 ![Saptak625's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saptak625&custom_title=Saptak625's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
